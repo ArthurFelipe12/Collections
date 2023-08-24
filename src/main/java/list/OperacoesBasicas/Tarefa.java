@@ -1,4 +1,4 @@
-package main.java.list.operacoesBasicas;
+package main.java.list.OperacoesBasicas;
 
 public class Tarefa {
     //Atibuto
