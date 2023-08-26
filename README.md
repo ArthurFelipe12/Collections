@@ -1,2 +1,6 @@
 # 👨‍💻 Collections
-Repositório que armazena exercícios do curso sobre collections java feito na digital innovation one.
+Repositório que armazena exercícios do curso sobre collections feitos na digital innovation one.
+
+# 🛠 Ferramenta Utilizada
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Editor de códigos.
+
